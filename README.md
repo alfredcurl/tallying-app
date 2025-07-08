@@ -46,7 +46,7 @@ A web-based election tallying system built with PHP and PostgreSQL. The app enab
 
 1. **Clone the repository:**
     ```sh
-    git clone <your-repo-url>
+    git clone https://github.com/alfredcurl/tallying-app.git
     cd tallying-app
     ```
 
